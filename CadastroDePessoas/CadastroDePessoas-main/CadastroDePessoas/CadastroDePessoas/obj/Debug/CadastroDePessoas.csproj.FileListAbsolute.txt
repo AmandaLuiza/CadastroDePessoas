@@ -1,0 +1,10 @@
+C:\Users\amanda.ribeiro\Downloads\CadastroDePessoas-main\CadastroDePessoas-main\CadastroDePessoas\CadastroDePessoas\obj\Debug\CadastroDePessoas.csproj.AssemblyReference.cache
+C:\Users\amanda.ribeiro\Downloads\CadastroDePessoas-main\CadastroDePessoas-main\CadastroDePessoas\CadastroDePessoas\obj\Debug\CadastroDePessoas.Form1.resources
+C:\Users\amanda.ribeiro\Downloads\CadastroDePessoas-main\CadastroDePessoas-main\CadastroDePessoas\CadastroDePessoas\obj\Debug\CadastroDePessoas.Properties.Resources.resources
+C:\Users\amanda.ribeiro\Downloads\CadastroDePessoas-main\CadastroDePessoas-main\CadastroDePessoas\CadastroDePessoas\obj\Debug\CadastroDePessoas.csproj.GenerateResource.cache
+C:\Users\amanda.ribeiro\Downloads\CadastroDePessoas-main\CadastroDePessoas-main\CadastroDePessoas\CadastroDePessoas\obj\Debug\CadastroDePessoas.csproj.CoreCompileInputs.cache
+C:\Users\amanda.ribeiro\Downloads\CadastroDePessoas-main\CadastroDePessoas-main\CadastroDePessoas\CadastroDePessoas\bin\Debug\CadastroDePessoas.exe.config
+C:\Users\amanda.ribeiro\Downloads\CadastroDePessoas-main\CadastroDePessoas-main\CadastroDePessoas\CadastroDePessoas\bin\Debug\CadastroDePessoas.exe
+C:\Users\amanda.ribeiro\Downloads\CadastroDePessoas-main\CadastroDePessoas-main\CadastroDePessoas\CadastroDePessoas\bin\Debug\CadastroDePessoas.pdb
+C:\Users\amanda.ribeiro\Downloads\CadastroDePessoas-main\CadastroDePessoas-main\CadastroDePessoas\CadastroDePessoas\obj\Debug\CadastroDePessoas.exe
+C:\Users\amanda.ribeiro\Downloads\CadastroDePessoas-main\CadastroDePessoas-main\CadastroDePessoas\CadastroDePessoas\obj\Debug\CadastroDePessoas.pdb
